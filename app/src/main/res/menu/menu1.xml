@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+       <item
+       android:id="@+id/wait"
+       android:title="Waiting List">
+
+            </item>
+    <item
+        android:id="@+id/add"
+        android:title="Add items">
+    </item>
+    <item
+        android:id="@+id/showOrd"
+        android:title="Show all ordes">
+    </item>
+    <item
+        android:id="@+id/allcategory"
+        android:title="Show all category">
+    </item>
+
+    <item
+        android:id="@+id/todaysdishes"
+        android:title="Today's dishes">
+    </item>
+
+    <item
+        android:id="@+id/logout"
+        android:title="Log Out">
+    </item>
+</menu>

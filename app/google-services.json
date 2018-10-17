@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1062230957489",
+    "firebase_url": "https://ham-num.firebaseio.com",
+    "project_id": "ham-num",
+    "storage_bucket": "ham-num.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062230957489:android:be96dea293d02098",
+        "android_client_info": {
+          "package_name": "com.example.esso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062230957489-5n3td9uts9cucm0u2hi6koed6gpsl98c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9VPUIuNcHSBe2u-1a2DJRd0u5l6_a24M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
